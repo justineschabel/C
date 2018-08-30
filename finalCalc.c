@@ -1,4 +1,4 @@
-//THE ERROR I CANT SEEM TO FIX: 80 WAFFLES. How to i check a double variable???????
+
 //  main.c
 //  Homework 2.1.c
 //
